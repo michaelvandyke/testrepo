@@ -11,6 +11,14 @@ html, body  {
     background-color: #00ff00;
 	margin: 0;
 }
+h1 {
+    color: darkblue;
+}
+h2 {
+    color: coral
+}
+
+
 /* Correct `block` display not defined in IE 8/9.*/
 article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
   display: block;
